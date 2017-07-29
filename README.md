@@ -3,4 +3,4 @@ This repository contains Arduino files for controlling a series of relays automa
 
 Light show video: https://www.youtube.com/watch?v=Ii-aXG2eg7o
 
-How to make light show video: https://www.youtube.com/watch?v=P9BNTpvb7o0
+How to make a light show video: https://www.youtube.com/watch?v=P9BNTpvb7o0
